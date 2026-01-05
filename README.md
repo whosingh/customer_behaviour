@@ -22,7 +22,7 @@ The goal of this project is to showcase practical data analytics skills commonly
 - **PostgreSQL** (SQL queries and data analysis)
 - **Power BI** (Interactive dashboard creation)
 - **Gamma** (Presentation slides)
-- **Jupyter Notebook / VS Code** (Development environment)
+- **VS Code** (Development environment)
 
 ---
 
