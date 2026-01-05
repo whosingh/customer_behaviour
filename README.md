@@ -10,7 +10,7 @@ The goal of this project is to showcase practical data analytics skills commonly
 ---
 
 ## Dataset
-- Source: (Add source here, e.g., Kaggle / Internal Dataset / Public Dataset)
+- Source: (Local Dataset)
 - Format: CSV
 - Description:  
   The dataset contains structured data used to analyze trends, patterns, and key metrics relevant to the business problem.
